@@ -1,8 +1,8 @@
-- 👋 Ola, meu nome é Gustavo Berti ou kain, como preferir.
+- 👋 Ola, meu nome é Gustavo Berti.
 - 👀 Tenho interesse nas mais diversas áreas da tecnologia, como robótica, criação de jogos, desing, machine learning e vários outros.
-- 🌱 Estou cursando Ciência da Computação pela Barão de Máua e estou aprendendo C/C++ no meu curso, fora python que tenho aprendido por conta própria.
-- 💞️ Sou apenas um progamador iniciante e por conta disso, ainda não sei qual área da computação desejo seguir, buscando trabalhos que me deem bagagem e conhecimento para me encontrar nesse meio.
-- 📫 Não costumo utilizar muito redes sociais, mas podem me encontrar pelo linkedin ou instagram.
+- 🌱 Estou cursando Ciência da Computação pela Barão de Máua e obtive conhecimento em C/C++, Python, Java, aprendi sobre Banco de Dados usando SQL e PL/SQL, e atualmente, tenho me interessado mais em FrontEnd, trabalhando com JS, HTML, CSS e React.
+- 💞️ Tenho extrema facilidade em me comunicar, adoro apresentações e busco um ambiente confiável, que me dê bagagem e conhecimento para me tornar um bom programador.
+- 📫 Não sou tão ativo nas minhas próprias rede sociais, mas tenho conhecimento em Design para criação de post´s para Feed e Story, mas podem me encontrar pelo linkedin ou instagram.
 - CONTATOS:
 <div>
 <a href="https://www.instagram.com/gustavob.moreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
