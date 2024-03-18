@@ -5,7 +5,7 @@
 - 📫 Não sou tão ativo nas minhas próprias rede sociais, mas tenho conhecimento em Design para criação de post´s para Feed e Story, mas podem me encontrar pelo linkedin ou instagram.
 - CONTATOS:
 <div>
-<a href="https://www.instagram.com/gustavob.moreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/gustavob.moreira/](https://www.instagram.com/moreiragustavoberti?igsh=MWNlMWZnbGdyanY0dQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-berti-09139823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
